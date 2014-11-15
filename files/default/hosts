@@ -1,0 +1,7 @@
+172.16.64.9	nfs	nfs.vpod.local
+172.16.64.10	master	master.vpod.local
+172.16.64.11	slave1	slave1.vpod.local
+172.16.64.12	slave2	slave2.vpod.local
+192.168.109.7	chefserver	chefserver.vpod.local
+127.0.0.1 localhost localhost.localdomain localhost4 localhost4.localdomain4 
+::1       localhost localhost.localdomain localhost6 localhost6.localdomain6
